@@ -2,3 +2,29 @@
 
 A .git file is created. That means we can use git to control the versions of files in this folder. 
 
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Working directory and the repository contain all the files that we have. However, staging area can make our commint more flexible and it allow us to commit as we will. 
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+You can put all the files related to one logical change into the staging area and commit first even though you may have several logical changes in your working directory.
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to have different versions for your project, you can use branches like experimental version. Other branches won't affect your master branch, so it's much safer to move forward. 
+
+5. How do the diagrams help you visualize the branch structure?
+
+These diagrams help me clearly undertand the structure of the whole project. Even if I have many features in different branches, it helps me to organize them perfectly.
+
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+These two branches will be merged into one branch. The diagram can help us to easily understand the structure of commits and how they are related to each other.
+
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros: save us lots of time to merge and double check manually. 
+Cons: May keep something we don't want or delete something we want.
