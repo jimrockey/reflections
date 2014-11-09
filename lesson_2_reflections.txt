@@ -1,0 +1,4 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+A .git file is created. That means we can use git to control the versions of files in this folder. 
+
