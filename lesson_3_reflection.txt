@@ -1,1 +1,2 @@
 1. When would you want to create a remote respository rather than keeping all your work local?
+  When I want to share this respository with my friends or I work on several different computers, I would like to remote respository. 
